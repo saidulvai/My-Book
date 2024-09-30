@@ -34,9 +34,9 @@ ALLOWED_HOSTS = ["*"]
 # CSRF_TRUSTED_ORIGINS =['https://blogsite-backend-s4xp.onrender.com', 'http://127.0.0.1:8000/']
 
 # LOGIN_URL = "http://127.0.0.1:5500/login.html"
-CSRF_TRUSTED_ORIGINS =['https://my-book-iopa.onrender.com/', 'http://127.0.0.1:8000/', "http://127.0.0.1:5501"]
+CSRF_TRUSTED_ORIGINS =['https://my-book-iopa.onrender.com', 'http://127.0.0.1:8000/', "http://127.0.0.1:5502"]
 
-LOGIN_URL = "http://127.0.0.1:5500/login.html"
+LOGIN_URL = "http://127.0.0.1:5502/login.html"
 # Application definition
 
 INSTALLED_APPS = [
@@ -71,7 +71,7 @@ MIDDLEWARE = [
 ]
 CORS_ALLOW_ALL_ORIGINS = True
 CORS_ALLOWED_ORIGINS = [
-   "http://127.0.0.1:5501"
+   "http://127.0.0.1:5502"
 ]
 
 ROOT_URLCONF = 'blog_site.urls'
