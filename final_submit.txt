@@ -1,0 +1,10 @@
+1. 01843534802
+2. 2
+3. My-Book
+4. Project Github Link:
+	Backend: https://github.com/saidulvai/My-Book
+	Frontend: https://github.com/saidulvai/BlogSite-Frontend
+5. Deployment link:
+	Backend: https://my-book-iopa.onrender.com/blog/load_blogs/
+	Frontend: https://66fab1da94d06e156b50b5d9--adorable-longma-0b8d68.netlify.app/
+6. username=saidulvai, password=1234abcd%
